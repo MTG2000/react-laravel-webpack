@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{12:function(n,e,o){"use strict";o.r(e);var a=o(0),t=o.n(a);e.default=function(){return t.a.createElement("h2",null,"This is home ( a lazy loaded component)")}}}]);
